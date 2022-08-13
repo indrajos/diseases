@@ -8,4 +8,5 @@ It was interesting for me to find:
 - which disease is the most popular, how it changes by location, sex, or age;
 - which disease wasn't found all these years;
 - check out some particular diseases (like Tuberculosis, Chickenpox, tick diseases).
-Display these insights using different display tools. 
+
+Display these insights using different visualization tools. 
